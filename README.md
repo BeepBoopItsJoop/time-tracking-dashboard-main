@@ -1,3 +1,5 @@
+## [Click here to View](https://time-tracking-dashboard-main-nine.vercel.app/)
+
 # Frontend Mentor - Time tracking dashboard
 
 ![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)
